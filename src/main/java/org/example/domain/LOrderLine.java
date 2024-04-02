@@ -1,7 +1,7 @@
 package org.example.domain;
 
 import io.ebean.Model;
-import jakarta.persistence.*;
+import javax.persistence.*;
 
 import java.math.BigDecimal;
 
